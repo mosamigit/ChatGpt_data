@@ -1,0 +1,79 @@
+https://inxeption.com/search-results/trade-data?s=solar+panel
+
+
+Search according to all imports
+
+Name of origin country
+Total no of shipments by perticular country
+What is the weight of shipments
+What is the % weight of shipments
+Which country shipped maximum no of shipments
+What is the maximum weight for shipment
+
+Search as per HS code for all imports
+Total no of shipments
+What is the weight of shipments
+What is the % weight of shipments
+
+Search for specific supplier(shipper)
+What is the name of supplier
+Total no of shipments
+What is the weight of shipments
+What is the % weight of shipments
+Which supplier supply maximum no of shipments
+
+Search for specific importer(consignee)
+What is the name of importer
+Total no of shipments
+What is the weight of shipments
+What is the % weight of shipments
+Which importer import maximum no of shipments
+
+Search for specific unloading port
+Name of differents unloading ports
+Total no of shipments
+What is the weight of shipments
+What is the % weight of shipments
+
+
+By Company----Consignee
+For specific companies
+What is the address of company
+Which country that company belongs to
+Total no of shipments from that company
+Name of Top products for shipment
+Name of Top shippers from that company
+
+By shipments details from perticular company
+What is the date of shipment arrival
+Name of shipper
+What is the address of shipper
+Name of loading port
+Nmae of unloading port
+What is the product description
+What is HS code no for product
+Quantity of shipment
+What the weight in kg of shipment
+What are the charges required to ship?
+
+
+Who is the consignee or recipient of the imported goods?
+Can you provide a description of the product being imported?
+In which month was the shipment imported?
+What is the year of the import for this particular shipment?
+Different companies which sell solar panel in US?
+Consignee name: Who is the intended recipient of the shipment?
+Consignee address: What is the address where the shipment is being delivered?
+Product description: Can you provide a detailed description of the goods being shipped for specific company?
+HS code: What is the Harmonized System (HS) code for the product being shipped?
+Month and year: In which month and year was the maximum shipments dispatched? 
+
+
+
+
+
+
+
+
+
+
